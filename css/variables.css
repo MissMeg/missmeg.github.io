@@ -1,0 +1,8 @@
+:root {
+  --dark-blue: #003756;
+  --medium-blue: #007998;
+  --light-blue: #18b2bc;
+  --yellow-light: #febf34;
+  --orange-light: #ff9740;
+  --typewriter-border: .15em solid var(--orange-light);
+}

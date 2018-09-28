@@ -180,3 +180,27 @@
     border-right: var(--typewriter-border);
   }
 }
+
+@keyframes blinkCursor2 {
+  50% {
+    border-right: var(--typewriter-border-two);
+  }
+}
+
+@-webkit-keyframes blinkCursor2 {
+  50% {
+    border-right: var(--typewriter-border-two);
+  }
+}
+
+@-moz-keyframes blinkCursor2 {
+  50% {
+    border-right: var(--typewriter-border-two);
+  }
+}
+
+@-o-keyframes blinkCursor2 {
+  50% {
+    border-right: var(--typewriter-border-two);
+  }
+}

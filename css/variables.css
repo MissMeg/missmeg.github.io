@@ -5,4 +5,5 @@
   --yellow-light: #febf34;
   --orange-light: #ff9740;
   --typewriter-border: .15em solid var(--orange-light);
+  --typewriter-border-two: .15em solid var(--light-blue);
 }

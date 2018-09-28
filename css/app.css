@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Quicksand');
+@import "starting_styles.css";
 @import "variables.css";
-@import "animations.css";
+@import "modal_animations.css";
 @import "initial_modal.css";
+@import "navbar.css";
+@import "header.css";
+@import "about.css";

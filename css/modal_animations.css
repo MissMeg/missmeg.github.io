@@ -6,8 +6,12 @@
   width: 11em;
   padding-bottom: 5px;
   -webkit-animation: type 3s steps(40, end);
+  -moz-animation: type 3s steps(40, end);
+  -o-animation: type 3s steps(40, end);
   animation: type 3s steps(40, end);
   -webkit-animation-fill-mode: forwards;
+  -moz-animation-fill-mode: forwards;
+  -o-animation-fill-mode: forwards;
   animation-fill-mode: forwards;
 }
 
@@ -23,10 +27,10 @@
   -moz-animation: type2 3s steps(40, end);
   -o-animation: type2 3s steps(40, end);
   animation: type2 3s steps(40, end);
-  -webkit-animation-delay: 3s;
-  -moz-animation-delay: 3s;
-  -o-animation-delay: 3s;
-  animation-delay: 3s;
+  -webkit-animation-delay: 3.5s;
+  -moz-animation-delay: 3.5s;
+  -o-animation-delay: 3.5s;
+  animation-delay: 3.5s;
   -webkit-animation-fill-mode: forwards;
   -moz-animation-fill-mode: forwards;
   -o-animation-fill-mode: forwards;

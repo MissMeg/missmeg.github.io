@@ -1,3 +1,7 @@
+#initial_modal_button {
+  display: none;
+}
+
 #initial_modal {
   background-color: var(--dark-blue);
   color: var(--light-blue);
